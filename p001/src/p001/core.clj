@@ -7,4 +7,4 @@
     #(= % true))
   (def solution
     true)
-  (print (problem-statement solution)))
+  (println (problem-statement solution)))

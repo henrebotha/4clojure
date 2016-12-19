@@ -7,4 +7,4 @@
     #(= (- 10 (* 2 3)) %))
   (def solution
     4)
-  (print (problem-statement solution)))
+  (println (problem-statement solution)))

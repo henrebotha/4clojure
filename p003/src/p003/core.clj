@@ -7,4 +7,4 @@
     #(= % (.toUpperCase "hello world")))
   (def solution
     "HELLO WORLD")
-  (print (problem-statement solution)))
+  (println (problem-statement solution)))
